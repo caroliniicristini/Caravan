@@ -6,8 +6,7 @@
 
 
 # 📖 Sobre 
-O projeto Caravan é um site que trata-se de uma agência de viagens que foi desenvolvido durante o curso de Bootstrap da plataforma Origamid, no qual é composto por páginas que exploram
-diversos componentes do Bootstrap 4.
+O projeto Caravan é um site que trata-se de uma agência de viagens que foi desenvolvido durante o curso de Bootstrap da plataforma Origamid, no qual é composto por páginas que exploram diversos componentes do Bootstrap 4.
 
 
 # 🚀 Tecnologias utilizadas
